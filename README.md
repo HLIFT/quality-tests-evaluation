@@ -19,6 +19,8 @@ On vous demande d'implémenter un programme qui facilitera l'organisation de l'�
 
 Votre programme sera évalué selon la qualité du code et des tests, leur pertinence, la couveture du code, la gestion des
 exceptions, etc.
+Vous êtes autorisés à modifier la visibilités des propriétés de la classe `Employee`, ou, mieux, à implémenter toutes
+les fonctions nécessaires dans cette classe.
 
 User stories à implémenter :
 - En tant que gérant de la boutique, je souhaite pouvoir obtenir la liste des employés majeurs, afin de savoir qui sera
