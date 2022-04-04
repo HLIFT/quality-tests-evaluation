@@ -1,3 +1,3 @@
 package org.mydigitalschool.employee.employee
 
-data class Employee(private val name: String, private val age: Int)
+data class Employee(val name: String, val age: Int)
